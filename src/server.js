@@ -1,6 +1,6 @@
 const express = require('express')
 const router = require('./routes/routes')
-const jwt = require('jsonwebtoken')
+
 
 // configuração do servidor
 const app = express()
